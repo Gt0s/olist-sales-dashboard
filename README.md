@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard on ~99,000 real orders from Olist, a Brazilian e-commerce marketplace (Jan 2017 – Aug 2018). The data is cleaned and modelled in Python (pandas), then analysed in Power BI with DAX measures.
 
-![Dashboard overview](images/dashboard_overview.png)
+![Dashboard overview](dashboard_overview.png)
 
 ## Business questions
 
